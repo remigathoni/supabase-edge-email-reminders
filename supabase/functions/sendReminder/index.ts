@@ -72,12 +72,12 @@ serve(async (req) => {
         }
       ],
       from: {
-        email: 'maryg.kahiga@gmail.com',
-        name: 'Billmate'
+        email: 'your-email@gmail.com',
+        name: 'your-name'
       },
       reply_to: {
-        email: 'maryg.kahiga@gmail.com',
-        name: 'mary'
+        email: 'reply-to-email@gmail.com',
+        name: 'reply-to-name'
       }
     };
 
